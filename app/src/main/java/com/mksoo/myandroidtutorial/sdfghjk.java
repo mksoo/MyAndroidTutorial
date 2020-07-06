@@ -1,4 +1,4 @@
 package com.mksoo.myandroidtutorial;
 
-public class test {
+public class sdfghjk {
 }
